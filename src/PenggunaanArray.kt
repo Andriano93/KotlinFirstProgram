@@ -1,4 +1,6 @@
-fun main(args: Array<String>) {var arrA = arrayOf<Int>()
+fun main(args: Array<String>) {
+    //Array
+    var arrA = arrayOf<Int>()
     arrA += 34
     println(arrA[0])
     var arrB = arrayOf<Int>()
